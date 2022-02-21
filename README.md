@@ -7,13 +7,13 @@ The program is developed in the C programming language.
 
 ### The program provides 7 options
 <ul>
-  <li>Insert.</li>
-  <li>Show.</li>
-  <li>Search.</li>
-  <li>Change.</li>
-  <li>Delete 1 element.</li>
-  <li>Delete all.</li>
-  <li>Finish.</li>
+  <li>Insert</li>
+  <li>Show</li>
+  <li>Search</li>
+  <li>Change</li>
+  <li>Delete 1 element</li>
+  <li>Delete all</li>
+  <li>Finish</li>
 </ul>
 
 For the current project, we have taken as a basis the idea that no repeated numbers will be inserted.
