@@ -35,7 +35,7 @@ Para este programa, tomamos como premissa a ideia de que não serão inseridos n
 
 O programa deve possuir as seguintes funções:
 
-* Inserir no início
+* Inserir
 * Mostrar
 * Buscar
 * Alterar
